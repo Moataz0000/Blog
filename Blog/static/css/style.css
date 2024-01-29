@@ -1,0 +1,27 @@
+#content .head{
+    text-align: center;
+    color: blue;
+    padding-bottom: 170px;
+
+}
+
+
+#content .post{
+    width: 50%;
+    height: 50%;
+    border:7px  rgb(24, 24, 92) solid;
+    padding-top: 15px;
+    margin-bottom: 100px;
+    
+}
+
+.post #title{
+    text-align: center;
+}
+
+#content .post .prag{
+    text-align: center;
+    color: black;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-size: medium
+}

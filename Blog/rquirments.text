@@ -1,0 +1,9 @@
+asgiref==3.7.2
+Django==3.2.3
+django-markdown-deux==1.0.6
+django-taggit==3.0.0
+Markdown==3.4.1
+markdown2==2.4.12
+psycopg2-binary==2.9.3
+pytz==2023.3.post1
+sqlparse==0.4.4
